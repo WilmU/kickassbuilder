@@ -27,7 +27,7 @@ function Update () {
 			}
 		if (Input.GetKeyDown("d") && transform.position.x < newBoundriesX)
 		{
-			transform.position.x += moveSpace;
+			transform.position.x += moveSpace;oidfhigeoijoi;ar
 			}
 		
 	}
