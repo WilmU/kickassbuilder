@@ -11,7 +11,7 @@ function Start () {
 }
 
 function Update () {
-	if (moving == false)
+	if (moving == true)
 	{
 		if (Input.GetKeyDown("w") && transform.position.z < newBoundriesZ)
 		{
